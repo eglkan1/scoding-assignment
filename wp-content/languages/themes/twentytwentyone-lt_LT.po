@@ -1,0 +1,740 @@
+# Translation of Themes - Twenty Twenty-One in Lithuanian
+# This file is distributed under the same license as the Themes - Twenty Twenty-One package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-12-06 19:26:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && (n % 100 < 11 || n % 100 > 19)) ? 0 : ((n % 10 >= 2 && n % 10 <= 9 && (n % 100 < 11 || n % 100 > 19)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: lt\n"
+"Project-Id-Version: Themes - Twenty Twenty-One\n"
+
+#: classes/class-twenty-twenty-one-dark-mode.php:186
+msgid "Dark Mode can also be turned on and off with a button that you can find in the bottom right corner of the page."
+msgstr "Tamsus režimas taip pat gali būti perjungtas mygtuku, kurį galite rasti apatiniame dešiniajame puslapio kampe."
+
+#: classes/class-twenty-twenty-one-dark-mode.php:185
+msgid "Dark Mode is a device setting. If a visitor to your site requests it, your site will be shown with a dark background and light text. <a href=\"https://wordpress.org/support/article/twenty-twenty-one/\">Learn more about Dark Mode.</a>"
+msgstr "Tamsus režimas yra įrenginio nustatymas. Jei lankytojas Jūsų tinklalapyje to prašo, svetainė bus atvaizduojama su tamsiu fonu ir šviesiu tekstu. <a href=\"https://wordpress.org/support/article/twenty-twenty-one/\">Sužinokite daugiau apie Tamsų režimą.</a>"
+
+#. translators: %s: The post-type name.
+#: inc/template-tags.php:249
+msgid "Older %s"
+msgstr "Ankstesni %s"
+
+#. translators: %s: The post-type name.
+#: inc/template-tags.php:241
+msgid "Newer %s"
+msgstr "Naujesni %s"
+
+#: classes/class-twenty-twenty-one-dark-mode.php:402
+msgid "This website uses LocalStorage to save the setting when Dark Mode support is turned on or off.<br> LocalStorage is necessary for the setting to work and is only used when a user clicks on the Dark Mode button.<br> No data is saved in the database or transferred."
+msgstr "Šis tinklalapis naudoja LocalStorage Tamsaus režimo perjungimo nustatymui išsaugoti.<br>LocalStorage yra būtinas, kad šis nustatymas veiktų ir yra naudojamas tik tuomet, kai vartotojas paspaudžia Tamsaus režimo mygtuką.<br>Jokie duomenys nėra saugomi duomenų bazėje ar kur nors perduodami."
+
+#: classes/class-twenty-twenty-one-dark-mode.php:401
+msgid "Suggested text:"
+msgstr "Siūlomas tekstas:"
+
+#: classes/class-twenty-twenty-one-dark-mode.php:400
+msgid "Twenty Twenty-One uses LocalStorage when Dark Mode support is enabled."
+msgstr "Twenty Twenty-One naudoja LocalStorage kai Tamsaus režimo palaikymas yra įjungtas."
+
+#: classes/class-twenty-twenty-one-dark-mode.php:193
+msgid "Dark Mode support"
+msgstr "Tamsaus režimo palaikymas"
+
+#: classes/class-twenty-twenty-one-customize-notice-control.php:43
+msgid "Learn more about Dark Mode."
+msgstr "Sužinokite daugiau apie Tamsų režimą"
+
+#: classes/class-twenty-twenty-one-customize-notice-control.php:41
+msgid "To access the Dark Mode settings, select a light background color."
+msgstr " Norėdami pasiekti Tamsaus režimo nustatymus, pasirinkite šviesią fono spalvą."
+
+#: classes/class-twenty-twenty-one-dark-mode.php:145
+msgid "Colors & Dark Mode"
+msgstr "Spalvos ir Tamsus režimas"
+
+#: inc/template-tags.php:77
+msgctxt "Label for sticky posts"
+msgid "Featured post"
+msgstr "Rekomenduojamas įrašas"
+
+#: inc/template-functions.php:399
+msgctxt "Post password form"
+msgid "Submit"
+msgstr "Pateikti"
+
+#: inc/template-functions.php:399
+msgctxt "Post password form"
+msgid "Password"
+msgstr "Slaptažodis"
+
+#: inc/template-functions.php:174
+msgctxt "Added to posts and pages that are missing titles"
+msgid "Untitled"
+msgstr "Be pavadinimo"
+
+#: inc/block-patterns.php:117
+msgctxt "Block pattern sample content"
+msgid "Cambridge, MA, 02139"
+msgstr "20115 Ukmergė"
+
+#: inc/block-patterns.php:117
+msgctxt "Block pattern sample content"
+msgid "123 Main Street"
+msgstr "Gėlių g. 12-3"
+
+#: inc/block-patterns.php:117
+msgctxt "Block pattern sample content"
+msgid "123-456-7890"
+msgstr "+370 600 00000"
+
+#: inc/block-patterns.php:117
+msgctxt "Block pattern sample content"
+msgid "example@example.com"
+msgstr "example@example.com"
+
+#: classes/class-twenty-twenty-one-customize.php:143
+msgctxt "Customizer control"
+msgid "Background color"
+msgstr "Fono spalva"
+
+#. translators: %s: The post-type singlular name (example: Post, Page etc)
+#: single.php:53
+msgid "Previous %s"
+msgstr "Ankstesnis %s"
+
+#. translators: %s: The post-type singlular name (example: Post, Page etc)
+#: single.php:51
+msgid "Next %s"
+msgstr "Kitas %s"
+
+#. translators: %s: WordPress Version.
+#: inc/back-compat.php:42 inc/back-compat.php:61 inc/back-compat.php:86
+msgid "This theme requires WordPress 5.3 or newer. You are running version %s. Please upgrade."
+msgstr "Šiai išvaizdos temai reikalingas WordPress 5.3 ar naujesnis. Jūsų turima versija yra %s. Prašome atsinaujinti."
+
+#. translators: %: page number.
+#: image.php:46 template-parts/content/content-page.php:36
+#: template-parts/content/content-single.php:30
+#: template-parts/content/content.php:36
+msgid "Page %"
+msgstr "Puslapis %"
+
+#: functions.php:187
+msgctxt "Font size"
+msgid "XXXL"
+msgstr "XXXL"
+
+#: functions.php:181
+msgctxt "Font size"
+msgid "XXL"
+msgstr "XXL"
+
+#: functions.php:175
+msgctxt "Font size"
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:169
+msgctxt "Font size"
+msgid "L"
+msgstr "L"
+
+#: functions.php:163
+msgctxt "Font size"
+msgid "M"
+msgstr "M"
+
+#: functions.php:157
+msgctxt "Font size"
+msgid "S"
+msgstr "S"
+
+#: functions.php:151
+msgctxt "Font size"
+msgid "XS"
+msgstr "XS"
+
+#: comments.php:88
+msgid "Leave a comment"
+msgstr "Įrašykite komentarą"
+
+#. translators: %s: comment count number.
+#: comments.php:40
+msgctxt "Comments title"
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "%s komentaras"
+msgstr[1] "%s komentarai"
+msgstr[2] "%s komentarų"
+
+#: comments.php:35
+msgid "1 comment"
+msgstr "1 komentaras"
+
+#: classes/class-twenty-twenty-one-dark-mode.php:352
+msgid "On"
+msgstr "Įjungta"
+
+#: classes/class-twenty-twenty-one-dark-mode.php:349
+msgid "Off"
+msgstr "Išjungta"
+
+#. translators: %s: On/Off
+#: classes/class-twenty-twenty-one-dark-mode.php:339
+msgid "Dark Mode: %s"
+msgstr "Tamsus režimas: %s"
+
+#: inc/template-functions.php:397
+msgid "This content is password protected. Please enter a password to view."
+msgstr "Šis turinys apsaugotas slaptažodžiu. Įveskite slaptažodį norėdami peržiūrėti."
+
+#: inc/menu-functions.php:35
+msgid "Open menu"
+msgstr "Rodyti meniu"
+
+#: inc/block-patterns.php:107
+msgid "&#8220;Reading&#8221; by Berthe Morisot"
+msgstr "&#8220;Skaitymas&#8221; sukurta Berthe Morisot"
+
+#: inc/block-patterns.php:84
+msgid "&#8220;Self portrait&#8221; by Berthe Morisot"
+msgstr "&#8220;Autoportretas&#8221; sukurta Berthe Morisot"
+
+#: inc/block-patterns.php:84
+msgid "&#8220;Daffodils&#8221; by Berthe Morisot"
+msgstr "&#8220;Narcizai&#8221; sukurta Berthe Morisot"
+
+#: inc/block-patterns.php:72 inc/block-patterns.php:107
+#: inc/starter-content.php:43
+msgid "&#8220;Roses Tremieres&#8221; by Berthe Morisot"
+msgstr "&#8220;Piliarožės&#8221; sukurta Berthe Morisot"
+
+#: inc/template-functions.php:399
+msgctxt "Post password form"
+msgid "Enter"
+msgstr "Enter"
+
+#: inc/starter-content.php:128
+msgctxt "Theme starter content"
+msgid "Check out the Support Forums"
+msgstr "Eiti į pagalbos forumus"
+
+#: inc/starter-content.php:122
+msgctxt "Theme starter content"
+msgid "Read the Theme Documentation"
+msgstr "Skaityti išvaizdos temos dokumentaciją"
+
+#: inc/starter-content.php:112
+msgctxt "Theme starter content"
+msgid "Need help?"
+msgstr "Reikia pagalbos?"
+
+#: inc/starter-content.php:97
+msgctxt "Theme starter content"
+msgid "Twenty Twenty-One also includes an overlap style for column blocks. With a Columns block selected, open the \"Styles\" panel within the Editor sidebar. Choose the \"Overlap\" block style to try it out."
+msgstr "Twenty Twenty-One taip pat turi persidengimo stilių stulpelių blokui. Pasirinkę stulpelių bloką, atidarykite stilių skydelį redaktoriaus šoninėje juostoje. Pasirinkite \"Persidengimo\" bloko stilių ir jį išbandykite."
+
+#: inc/starter-content.php:93
+msgctxt "Theme starter content"
+msgid "Overlap columns"
+msgstr "Persidengiantys stulpeliai"
+
+#: inc/starter-content.php:87
+msgctxt "Theme starter content"
+msgid "Twenty Twenty-One includes stylish borders for your content. With an Image block selected, open the \"Styles\" panel within the Editor sidebar. Select the \"Frame\" block style to activate it."
+msgstr "Twenty Twenty-One turi stilingus rėmelius Jūsų turiniui. Pasirinkę paveikslėlio bloką, atidarykite stilių skydelį redaktoriaus šoninėje juostoje. Pasirinkite \"Rėmelio\" stilių ir jį įjunkite."
+
+#: inc/starter-content.php:83
+msgctxt "Theme starter content"
+msgid "Frame your images"
+msgstr "Įrėminkite savo paveikslėlius"
+
+#: inc/starter-content.php:77
+msgctxt "Theme starter content"
+msgid "Block patterns are pre-designed groups of blocks. To add one, select the Add Block button [+] in the toolbar at the top of the editor. Switch to the Patterns tab underneath the search bar, and choose a pattern."
+msgstr "Blokų šablonai yra iš anksto sukurtos blokų grupės. Norėdami tokią pridėti, pasirinkite bloko pridėjimo [+] mygtuką įrankių juostoje redaktoriaus viršuje. Perjunkite šablomų kortelę ir po paieškos juosta pasirinkite šabloną."
+
+#: inc/starter-content.php:73
+msgctxt "Theme starter content"
+msgid "Add block patterns"
+msgstr "Pridėkite blokų šablonus"
+
+#: inc/starter-content.php:30 inc/starter-content.php:33
+msgctxt "Theme starter content"
+msgid "Create your website with blocks"
+msgstr "Kurkite savo tinklalapį iš blokų"
+
+#: inc/block-patterns.php:107
+msgid "Reading"
+msgstr "Skaitymas"
+
+#: inc/block-patterns.php:107
+msgid "Young Woman in Mauve"
+msgstr "Jauna moteris Mauve"
+
+#: inc/block-patterns.php:107
+msgid "The Garden at Bougival"
+msgstr "Bougival sodas"
+
+#: inc/block-patterns.php:107
+msgid "In the Bois de Boulogne"
+msgstr "Bolonės miške"
+
+#: inc/block-patterns.php:107
+msgid "Villa with Orange Trees, Nice"
+msgstr "Vila su oranžiniais medžiais, Nica"
+
+#: inc/block-patterns.php:107
+msgid "Roses Tremieres"
+msgstr "Piliarožės"
+
+#: inc/block-patterns.php:96
+msgid "&#8220;Villa with Orange Trees, Nice&#8221; by Berthe Morisot"
+msgstr "&#8220;Vila su oranžiniais medžiais, Nica&#8221; sukurta Berthe Morisot"
+
+#: inc/block-patterns.php:96
+msgid "Beautiful gardens painted by Berthe Morisot in the late 1800s"
+msgstr "Puikus sodai, nutapyti Berthe Morisot velyvajame 19 a."
+
+#: inc/block-patterns.php:96 inc/block-patterns.php:107
+msgid "&#8220;The Garden at Bougival&#8221; by Berthe Morisot"
+msgstr "&#8220;Bougival sodai&#8221; sukurta Berthe Morisot"
+
+#: inc/block-patterns.php:72 inc/block-patterns.php:107
+#: inc/starter-content.php:61
+msgid "&#8220;Young Woman in Mauve&#8221; by Berthe Morisot"
+msgstr "&#8220;Jauna moteris Mauve&#8221; sukurta Berthe Morisot"
+
+#: inc/block-patterns.php:72 inc/block-patterns.php:107
+#: inc/starter-content.php:51
+msgid "&#8220;In the Bois de Boulogne&#8221; by Berthe Morisot"
+msgstr "&#8220;Bolonės miške&#8221; sukurta Berthe Morisot"
+
+#: inc/block-patterns.php:60
+msgid "Berthe Morisot<br>(French, 1841-1895)"
+msgstr "Berthe Morisot<br>(Prancūzija, 1841-1895)"
+
+#: inc/block-patterns.php:60
+msgid "Playing in the Sand"
+msgstr "Žaidimas smėlyje"
+
+#: inc/block-patterns.php:60
+msgid "&#8220;Playing in the Sand&#8221; by Berthe Morisot"
+msgstr "&#8220;Žaidimas smėlyje&#8221; sukurta Berthe Morisot"
+
+#. translators: %s: parent post.
+#: image.php:59
+msgid "Published in %s"
+msgstr "Paskelbta %s"
+
+#. translators: There is a space after page.
+#: comments.php:63 inc/template-tags.php:234
+msgid "Page "
+msgstr "Puslapis"
+
+#: classes/class-twenty-twenty-one-customize.php:113
+msgid "Summary"
+msgstr "Santrauka"
+
+#: classes/class-twenty-twenty-one-customize.php:90
+msgid "Excerpt Settings"
+msgstr "Santraukos nustatymai"
+
+#: inc/block-styles.php:98
+msgid "Thick"
+msgstr "Storas"
+
+#: classes/class-twenty-twenty-one-customize.php:111
+msgid "On Archive Pages, posts show:"
+msgstr "Archyvų puslapiuose rodyti:"
+
+#. translators: 1: Link to authors posts. 2: Author name.
+#: template-parts/post/author-bio.php:20
+msgid "View all of %2$s's posts."
+msgstr "Peržiūrėti visus %2$s įrašus."
+
+#. translators: %s author name.
+#. translators: 1: Author name.
+#: inc/template-tags.php:49 template-parts/post/author-bio.php:15
+msgid "By %s"
+msgstr "Parašė %s"
+
+#: template-parts/content/content-none.php:61
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Atrodo mes negalime rasti to ko jūs ieškote. Gal padės paieška?"
+
+#: template-parts/content/content-none.php:56
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Deja, pagal Jūsų užklausą nieko nerasta. Pabandykite dar kartą, naudodami kitokius raktažodžius."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content/content-none.php:43
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pasirengę paskelbti savo pirmąjį įrašą? <a href=\"%1$s\">Pradėkite čia</a>."
+
+#. translators: %s: parent post link.
+#: single.php:25
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%s</span>"
+msgstr "<span class=\"meta-nav\">Paskelbta</span><span class=\"post-title\">%s</span>"
+
+#: searchform.php:26
+msgctxt "submit button"
+msgid "Search"
+msgstr "Ieškoti"
+
+#: searchform.php:24
+msgid "Search&hellip;"
+msgstr "Ieškoti&hellip;"
+
+#. translators: %d: the number of search results.
+#: search.php:33
+msgid "We found %d result for your search."
+msgid_plural "We found %d results for your search."
+msgstr[0] "Rastas %d paieškos rezultatas."
+msgstr[1] "Rasti %d paieškos rezultatai."
+msgstr[2] "Rasta %d paieškos rezultatų."
+
+#. translators: %s: search term.
+#: search.php:21 template-parts/content/content-none.php:22
+msgid "Results for \"%s\""
+msgstr "Rezultatai pagal \"%s\""
+
+#. translators: %s: list of tags.
+#: inc/template-tags.php:118 inc/template-tags.php:162
+msgid "Tagged %s"
+msgstr "Pažymėta %s"
+
+#. translators: %s: list of categories.
+#: inc/template-tags.php:108 inc/template-tags.php:152
+msgid "Categorized as %s"
+msgstr "Kategorijos %s"
+
+#. translators: used between list items, there is a space after the comma.
+#: inc/template-tags.php:104 inc/template-tags.php:114
+#: inc/template-tags.php:148 inc/template-tags.php:158
+msgid ", "
+msgstr ", "
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: image.php:68 image.php:93 inc/template-tags.php:92 inc/template-tags.php:135
+#: template-parts/content/content-page.php:48
+msgid "Edit %s"
+msgstr "Redaguoti %s"
+
+#. translators: %s: Name of current post.
+#: inc/template-functions.php:132
+msgid "Continue reading %s"
+msgstr "Tęskite %s skaitymą"
+
+#: inc/block-styles.php:71
+msgid "Dividers"
+msgstr "Skirtukai"
+
+#: inc/block-styles.php:62
+msgid "Frame"
+msgstr "Rėmelis"
+
+#: inc/block-styles.php:35 inc/block-styles.php:44 inc/block-styles.php:53
+#: inc/block-styles.php:80 inc/block-styles.php:89
+msgid "Borders"
+msgstr "Rėmeliai"
+
+#: inc/block-styles.php:26
+msgid "Overlap"
+msgstr "Persidengimas"
+
+#: inc/block-patterns.php:116
+msgctxt "Block pattern description"
+msgid "A block with 3 columns that display contact information and social media links."
+msgstr "Blokas su 3 stulpeliais kurie rodo kontaktinę informaciją ir soc. tinklų nuorodas."
+
+#: inc/block-patterns.php:114
+msgid "Contact information"
+msgstr "Kontaktinė informacija"
+
+#: inc/block-patterns.php:106
+msgctxt "Block pattern description"
+msgid "A list of projects with thumbnail images."
+msgstr "Projektų sąrašas su paveikslėliais."
+
+#: inc/block-patterns.php:104
+msgid "Portfolio list"
+msgstr "Portfolio sąrašas"
+
+#: inc/block-patterns.php:95
+msgctxt "Block pattern description"
+msgid "An overlapping columns block with two images and a text description."
+msgstr "Persidengiančių stulpelių blokas su dviem paveikslėliais ir tekstiniu aprašymu."
+
+#: inc/block-patterns.php:92
+msgid "Overlapping images and text"
+msgstr "Persidengiantys paveikslėliai ir tekstas"
+
+#: inc/block-patterns.php:83
+msgctxt "Block pattern description"
+msgid "A media & text block with a big image on the left and a smaller one with bordered frame on the right."
+msgstr "Medijos ir teksto blokas su dideliu paveikslėliu kairėje ir mažesniu, su rėmeliu, dešinėje."
+
+#: inc/block-patterns.php:80
+msgid "Two images showcase"
+msgstr "Dviejų paveikslėlių demonstracija"
+
+#: inc/block-patterns.php:71
+msgctxt "Block pattern description"
+msgid "Three images inside an overlapping columns block."
+msgstr "Trys paveikslėliai persidengiančių stulpelių bloke."
+
+#: inc/block-patterns.php:68
+msgid "Overlapping images"
+msgstr "Persidengiantys paveikslėliai"
+
+#: inc/block-patterns.php:59
+msgctxt "Block pattern description"
+msgid "A Media & Text block with a big image on the left and a heading on the right. The heading is followed by a separator and a description paragraph."
+msgstr "Medijos ir teksto blokas su dideliu paveikslėliu kairėje ir antrašte dešinėje. Po antrašte yra skirtukas ir aprašymo pastraipa."
+
+#: inc/block-patterns.php:56
+msgid "Media and text article title"
+msgstr "Medija ir teksto straipsno antraštė"
+
+#: inc/block-patterns.php:48
+msgid "example@example.com"
+msgstr "example@example.com"
+
+#: inc/block-patterns.php:48
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: inc/block-patterns.php:48
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/block-patterns.php:48
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/block-patterns.php:48
+msgid "Let&#8217;s Connect."
+msgstr "Susisiekime"
+
+#: inc/block-patterns.php:47
+msgctxt "Block pattern description"
+msgid "A huge text followed by social networks and email address links."
+msgstr "Didžiulis tekstas su soc. tinklų ir el. pašto adreso nuorodomis apačioje."
+
+#: inc/block-patterns.php:44
+msgid "Links area"
+msgstr "Nuorodų erdvė"
+
+#: inc/block-patterns.php:36
+msgid "A new portfolio default theme for WordPress"
+msgstr "Nauja numatytoji portfolio tema WordPress"
+
+#: inc/block-patterns.php:33
+msgid "Large text"
+msgstr "Didelis tekstas"
+
+#: image.php:81
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Pilno dydžio"
+
+#. translators: %s: publish date.
+#: inc/template-tags.php:29
+msgid "Published %s"
+msgstr "Paskelbta %s"
+
+#: image.php:43 template-parts/content/content-page.php:33
+#: template-parts/content/content-single.php:27
+#: template-parts/content/content.php:33
+msgid "Page"
+msgstr "Puslapis"
+
+#: template-parts/header/site-nav.php:19
+msgid "Close"
+msgstr "Uždaryti"
+
+#: template-parts/header/site-nav.php:16
+msgid "Menu"
+msgstr "Meniu"
+
+#: functions.php:76 inc/starter-content.php:154
+#: template-parts/header/site-nav.php:13
+msgid "Primary menu"
+msgstr "Pagrindinis meniu"
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "Eiti prie turinio"
+
+#: functions.php:360
+msgid "Add widgets here to appear in your footer."
+msgstr "Čia įkelti valdikliai bus rodomi poraštėje."
+
+#: functions.php:358
+msgid "Footer"
+msgstr "Poraštė"
+
+#: functions.php:309
+msgid "Red to purple"
+msgstr "Nuo raudonos iki purpurinės"
+
+#: functions.php:304
+msgid "Purple to red"
+msgstr "Nuo purpurinės iki raudonos"
+
+#: functions.php:299
+msgid "Yellow to red"
+msgstr "Nuo geltonos iki raudonos"
+
+#: functions.php:294
+msgid "Red to yellow"
+msgstr "Nuo raudonos iki geltonos"
+
+#: functions.php:289
+msgid "Yellow to green"
+msgstr "Nuo geltonos iki žalios"
+
+#: functions.php:284
+msgid "Green to yellow"
+msgstr "Nuo žalios iki geltonos"
+
+#: functions.php:279
+msgid "Yellow to purple"
+msgstr "Nuo geltonos iki purpurinės"
+
+#: functions.php:274
+msgid "Purple to yellow"
+msgstr "Nuo purpurinės iki geltonos"
+
+#: functions.php:263
+msgid "White"
+msgstr "Balta"
+
+#: functions.php:258
+msgid "Yellow"
+msgstr "Geltona"
+
+#: functions.php:253
+msgid "Orange"
+msgstr "Oranžinė"
+
+#: functions.php:248
+msgid "Red"
+msgstr "Raudona"
+
+#: functions.php:243
+msgid "Purple"
+msgstr "Violetinė"
+
+#: functions.php:238
+msgid "Blue"
+msgstr "Mėlyna"
+
+#: functions.php:233
+msgid "Green"
+msgstr "Žalia"
+
+#: functions.php:228
+msgid "Gray"
+msgstr "Pilka"
+
+#: functions.php:223 inc/block-styles.php:107
+msgid "Dark gray"
+msgstr "Tamsiai pilka"
+
+#: functions.php:218
+msgid "Black"
+msgstr "Juoda"
+
+#: functions.php:186
+msgid "Gigantic"
+msgstr "Milžiniškas"
+
+#: functions.php:180
+msgid "Huge"
+msgstr "Didžiulis"
+
+#: functions.php:174
+msgid "Extra large"
+msgstr "Labai didelis"
+
+#: functions.php:168
+msgid "Large"
+msgstr "Didelis"
+
+#: functions.php:162
+msgid "Normal"
+msgstr "Normalus"
+
+#: functions.php:156
+msgid "Small"
+msgstr "Mažas"
+
+#: functions.php:150
+msgid "Extra small"
+msgstr "Labai mažas"
+
+#. translators: %s: WordPress.
+#: footer.php:60
+msgid "Proudly powered by %s."
+msgstr "„%s“ sistema."
+
+#: footer.php:24 functions.php:77 inc/starter-content.php:165
+msgid "Secondary menu"
+msgstr "Antrinis meniu"
+
+#: comments.php:80
+msgid "Comments are closed."
+msgstr "Komentarai išjungti"
+
+#: comments.php:72
+msgid "Newer comments"
+msgstr "Naujesni komentarai"
+
+#: comments.php:68
+msgid "Older comments"
+msgstr "Senesni komentarai"
+
+#: classes/class-twenty-twenty-one-customize.php:114
+msgid "Full text"
+msgstr "Pilnus įrašus"
+
+#: classes/class-twenty-twenty-one-customize.php:80
+msgid "Display Site Title & Tagline"
+msgstr "Rodyti tinklalapio pavadinimą ir aprašymą"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Nieko nerasta. Išbandykite paiešką."
+
+#: 404.php:16 template-parts/content/content-none.php:30
+msgid "Nothing here"
+msgstr "Nieko nėra"
+
+#. Author URI of the theme
+#: footer.php:61
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#. Author of the theme
+msgid "the WordPress team"
+msgstr "WordPress komanda"
+
+#. Description of the theme
+msgid "Twenty Twenty-One is a blank canvas for your ideas and it makes the block editor your best brush. With new block patterns, which allow you to create a beautiful layout in a matter of seconds, this theme’s soft colors and eye-catching — yet timeless — design will let your work shine. Take it for a spin! See how Twenty Twenty-One elevates your portfolio, business website, or personal blog."
+msgstr "Twenty Twenty-One yra švari drobė Jūsų idėjoms ir paverčia blokų redaktorių geriausiu Jūsų teptuku. Su naujais blokų šablonais galėsie sukurti puikią struktūrą per kelias sekundes, o šios išvaizdos temos švelnios spalvos ir akį traukiantis, bet laikui atsparus dizainas leis Jūsų darbui sužibėti. Išbandykite ją! Pamatykite kaip Twenty Twenty-One pakylės Jūsų portfolio, verslo svetainę ar asmeninį tinklaraštį."
+
+#. Theme URI of the theme
+msgid "https://wordpress.org/themes/twentytwentyone/"
+msgstr "https://wordpress.org/themes/twentytwentyone/"
+
+#. Theme Name of the theme
+#: inc/block-patterns.php:20
+msgid "Twenty Twenty-One"
+msgstr "Twenty Twenty-One"
